@@ -193,6 +193,7 @@ odeg,RB33,ostdeutsche-eisenbahn-gmbh,rb-33,#a5027d,#ffffff,,rectangle
 odeg,RB37,ostdeutsche-eisenbahn-gmbh,rb-37,#ad5937,#ffffff,,rectangle
 odeg,RB46,ostdeutsche-eisenbahn-gmbh,rb-46,#da6ba2,#ffffff,,rectangle
 odeg,RB51,ostdeutsche-eisenbahn-gmbh,rb-51,#da6ba2,#ffffff,,rectangle
+odeg,RB64,ostdeutsche-eisenbahn-gmbh,rb-64,#006552,#ffffff,,rectangle
 odeg,RB65,ostdeutsche-eisenbahn-gmbh,rb-65,#0066ad,#ffffff,,rectangle
 odeg,RE1,ostdeutsche-eisenbahn-gmbh,re-1,#e2001a,#ffffff,,rectangle
 odeg,RE10,ostdeutsche-eisenbahn-gmbh,re-10,#6c6db3,#ffffff,,rectangle
@@ -352,8 +353,6 @@ vgn-vag-tram,8,,8-vanstr-8,#32bdf2,#ffffff,,rectangle
 vgn-vag-ubahn,U 1,,7-vanuba-1,#1c62aa,#ffffff,,rectangle
 vgn-vag-ubahn,U 2,,7-vanuba-2,#ed1c24,#ffffff,,rectangle
 vgn-vag-ubahn,U 3,,7-vanuba-3,#4dc2bb,#ffffff,,rectangle
-vms-mrb,RB 30,mitteldeutsche-regiobahn,8010397,#ed9126,#ffffff,,rectangle
-vms-mrb,RE 3,mitteldeutsche-regiobahn,8010085,#0093d4,#ffffff,,rectangle
 vor-oebb,S1,osterreichische-bundesbahnen,4-81-1-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S2,osterreichische-bundesbahnen,4-81-2-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S3,osterreichische-bundesbahnen,4-81-3-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
@@ -522,11 +521,9 @@ zvnl-tram,50,,8-naslvt-50,#ffffff,#000000,#000000,rectangle
 zvnl-tram,56,,8-naslvt-56,#ffffff,#000000,#000000,rectangle
 zvnl-tram,N10,,8-naslvt-n10,#e1001e,#ffffff,,rectangle
 zvnl-tram,N17,,8-naslvt-n17,#67b337,#ffffff,,rectangle
-zvon-odeg,RB 64,ostdeutsche-eisenbahn-gmbh,8010177,#006552,#ffffff,,rectangle
-zvon-odeg,RB 65,ostdeutsche-eisenbahn-gmbh,8010073,#005b94,#ffffff,,rectangle
-zvon-tl,TLX RE1,trilex-express-die-landerbahn-gmbh-dlb,8010085,#ec7404,#ffffff,,rectangle
-zvon-tl,TLX RE2,trilex-express-die-landerbahn-gmbh-dlb,8010085,#e2001a,#ffffff,,rectangle
-zvon-tl,TL RB60,trilex-die-landerbahn-gmbh-dlb,8010085,#38a962,#ffffff,,rectangle
-zvon-tl,TL RB61,trilex-die-landerbahn-gmbh-dlb,8010085,#00632e,#ffffff,,rectangle
-zvon-tl,TL L7,trilex-die-landerbahn-gmbh-dlb,8012979,#ec7404,#ffffff,,rectangle
-zvon-tl,TL L9,trilex-die-landerbahn-gmbh-dlb,5400198,#58585a,#ffffff,,rectangle
+zvon-tl,TLX RE1,trilex-express-die-landerbahn-gmbh-dlb,tlx-re1,#ec7404,#ffffff,,rectangle
+zvon-tl,TLX RE2,trilex-express-die-landerbahn-gmbh-dlb,tlx-re2,#e2001a,#ffffff,,rectangle
+zvon-tl,TL RB60,trilex-die-landerbahn-gmbh-dlb,tl-rb60,#38a962,#ffffff,,rectangle
+zvon-tl,TL RB61,trilex-die-landerbahn-gmbh-dlb,tl-rb61,#00632e,#ffffff,,rectangle
+zvon-tl,TL L7,trilex-die-landerbahn-gmbh-dlb,tl-l7,#ec7404,#ffffff,,rectangle
+zvon-tl,TL T9,trilex-die-landerbahn-gmbh-dlb,tl-t9,#58585a,#ffffff,,rectangle
