@@ -15,9 +15,7 @@ db-regio-nordost,RB20,db-regio-ag-nordost,rb-20,#007734,#ffffff,,rectangle
 db-regio-nordost,RB21,db-regio-ag-nordost,rb-21,#501689,#ffffff,,rectangle
 db-regio-nordost,RB22,db-regio-ag-nordost,rb-22,#009bd5,#ffffff,,rectangle
 db-regio-nordost,RB23,db-regio-ag-nordost,rb-23,#eb7405,#ffffff,,rectangle
-db-regio-nordost,RB23,db-regio-ag-nordost,rb-23,#006fb8,#ffffff,,rectangle
 db-regio-nordost,RB24,db-regio-ag-nordost,rb-24,#da6ba2,#ffffff,,rectangle
-db-regio-nordost,RB24,db-regio-ag-nordost,rb-24,#ff2e17,#ffffff,,rectangle
 db-regio-nordost,RB25,db-regio-ag-nordost,rb-25,#00b098,#ffffff,,rectangle
 db-regio-nordost,RB31,db-regio-ag-nordost,rb-31,#66aa22,#ffffff,,rectangle
 db-regio-nordost,RB32,db-regio-ag-nordost,rb-32,#697c8a,#ffffff,,rectangle
@@ -36,12 +34,10 @@ db-regio-nordost,RE1,db-regio-ag-nordost,re-1,#0c8844,#ffffff,,rectangle
 db-regio-nordost,RE2,db-regio-ag-nordost,re-2,#ffd502,#000000,,rectangle
 db-regio-nordost,RE3,db-regio-ag-nordost,re-3,#eb7405,#ffffff,,rectangle
 db-regio-nordost,RE4,db-regio-ag-nordost,re-4,#992746,#ffffff,,rectangle
-db-regio-nordost,RE4,db-regio-ag-nordost,re-4,#5bb745,#ffffff,,rectangle
 db-regio-nordost,RE5,db-regio-ag-nordost,re-5,#0066ad,#ffffff,,rectangle
 db-regio-nordost,RE6,db-regio-ag-nordost,re-6,#da6ba2,#ffffff,,rectangle
 db-regio-nordost,RE66,db-regio-ag-nordost,re-66,#007734,#ffffff,,rectangle
 db-regio-nordost,RE7,db-regio-ag-nordost,re-7,#007734,#ffffff,,rectangle
-db-regio-nordost,RE7,db-regio-ag-nordost,re-7,#e36eb5,#ffffff,,rectangle
 db-regio-sudost,RE14,db-regio-ag-sudost,re-14,#a98956,#ffffff,,rectangle
 db-regionetz-westfrankenbahn,RB 56,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb-56,#fab23c,#ffffff,,rectangle
 db-regionetz-westfrankenbahn,RB 83,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb-83,#fdd245,#000000,,rectangle
