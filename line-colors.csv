@@ -115,16 +115,16 @@ mdv-mdsb,S 4,db-regio-ag-sudost,4-800486-4,#009641,#ffffff,,pill
 mdv-mdsb,S 5,db-regio-ag-sudost,4-800486-5,#ef7d00,#ffffff,,pill
 mdv-mdsb,S 5X,db-regio-ag-sudost,4-800486-5x,#fecf53,#ffffff,,pill
 mdv-mdsb,S 6,db-regio-ag-sudost,4-800486-6,#5d1339,#ffffff,,pill
-mdv-mdsb,S 7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#00569d,#000000,,pill
+mdv-mdsb,S 7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#00569d,#ffffff,,pill
 mdv-mdsb,S 8,db-regio-ag-sudost,4-8004a9-8,#5c2483,#ffffff,,pill
 mdv-mdsb,S 9,db-regio-ag-sudost,4-8004a9-9,#c0046b,#ffffff,,pill
 mdv-mdsb,S 10,db-regio-ag-sudost,4-800486-10,#f6df00,#000000,,pill
-mdv-mdsb,S 47,db-regio-ag-sudost,4-8004a9-47,#50af47,#000000,,pill
+mdv-mdsb,S 47,db-regio-ag-sudost,4-8004a9-47,#50af47,#ffffff,,pill
 mitteldeutsche-regiobahn,RB 110,mitteldeutsche-regiobahn,rb-110,#a2cbba,#ffffff,,rectangle-rounded-corner
 mitteldeutsche-regiobahn,RB 30,mitteldeutsche-regiobahn,rb-30,#ed9126,#ffffff,,rectangle-rounded-corner
 mitteldeutsche-regiobahn,RB45,mitteldeutsche-regiobahn,rb-45,#ffd502,#000000,,rectangle
-mitteldeutsche-regiobahn,RE 3,mitteldeutsche-regiobahn,re-3,#0093d4,#000000,,rectangle-rounded-corner
-mitteldeutsche-regiobahn,RE 6,mitteldeutsche-regiobahn,re-3,#9e60a4,#ffffff,,rectangle-rounded-corner
+mitteldeutsche-regiobahn,RE 3,mitteldeutsche-regiobahn,re-3,#0093d4,#ffffff,,rectangle-rounded-corner
+mitteldeutsche-regiobahn,RE 6,mitteldeutsche-regiobahn,re-6,#9e60a4,#ffffff,,rectangle-rounded-corner
 mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle
 mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle
 mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle
